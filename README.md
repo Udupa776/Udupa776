@@ -18,7 +18,7 @@
 Feel free to reach out to me via:
 
 - 📧 **Email**: [udupayashwanth@gamil.com](mailto:udupayashwanth@gmail.com)
-- 💼 **LinkedIn**: [yashwanth Udupa](www.linkedin.com/in/yashwanth-udupa-5297bb32b)
+- 💼 **LinkedIn**: [yashwanth Udupa](https://www.linkedin.com/in/yashwanth-udupa-5297bb32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 📊 GitHub Stats
 
