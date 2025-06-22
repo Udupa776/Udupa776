@@ -2,7 +2,7 @@
 
 - 🧠 AI & ML enthusiast
 - 💻 I love building web and learning more
-- 🌱 Currently learning ML and DSA in C++
+-  Currently learning ML and DSA in C++
 - 🏃‍♂️ Long-distance runner & Kannada lover
 
 ### 🛠 Tech Stack
